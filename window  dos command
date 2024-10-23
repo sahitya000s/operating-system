@@ -1,0 +1,53 @@
+Window dos command 1
+
+1. date
+2. time
+3. prompt
+4. mkdir directeryname
+5. cd directeryname
+6. rmdir directeryname
+7. path
+8. chkdsk
+9. copy file/directeryname 
+10. xcopy directerynamepath
+11. cls
+12. del directeryname
+13. move 
+
+
+window dos command 2
+
+1. echo welcome to command prompt
+2. fc directeryname1 directeryname2
+3. edit name
+4. find "     "  directeryname
+5. rename directeryname1 directeryname2
+6. type directeryPATH
+7. ver
+
+
+window dackstop and utilities
+
+1. notepad
+2. write
+3. mspaint
+4. calc
+5. ipconfig
+6. hostname
+7. control
+8. control font
+9. control color
+10. controal desktop
+11. control printers
+12. disk part
+13. edit
+14. explorer
+15. narrator
+16. netstat
+17. osk
+18. ping
+19. sysedit
+20. timedate
+21. taskmgr
+22. net share
+
