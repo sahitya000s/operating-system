@@ -1,0 +1,41 @@
+linux cammand prompt
+
+
+1. pwd
+2. cd
+3. ls
+4. mkdir directoryname
+5. rmdir directoryname
+6. file
+7. touch  .m directoryname
+8. rm directoryname
+9. cp directoryname1 directoryname2
+10. mv directoryname1 directoryname2
+11. rename 
+12. head directoryname(filename) 
+13. tail directoryname(filename) 
+14. cat directoryname(filename) 
+15. tac directoryname(filename) 
+16. more +3 directoryname(filename) 
+17. less directoryname(filename)
+
+
+
+
+1. ps
+2. top
+3. kill
+4. find directoryname(filename) 
+5. date
+6. cal
+7. uptime
+8. w
+9. whoami
+10. finger
+11. uname
+12. man
+13. df
+14. du
+15. free
+16. whereis
+17. which
